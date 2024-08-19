@@ -1,4 +1,4 @@
-package edu.java.anatomiaclasse;
+package edu.java.anatomiaClasse;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
