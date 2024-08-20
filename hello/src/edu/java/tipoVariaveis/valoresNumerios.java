@@ -4,7 +4,6 @@ public class valoresNumerios {
 
     public static void main(String[] args) {
         final int NUMERO_CURTO = 1;
-        NUMERO_CURTO = 2;
-        System.out.println(numeroCurto);
+        System.out.println(NUMERO_CURTO);
     }
 }
