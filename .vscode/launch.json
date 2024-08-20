@@ -1,0 +1,39 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "operadores",
+            "request": "launch",
+            "mainClass": "edu.java.operadores.operadores",
+            "projectName": "Java_8d52a638"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.java.anatomiaClasse.BoletimEstudantil",
+            "projectName": "Java_8d52a638"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "edu.java.anatomiaClasse.MyClass",
+            "projectName": "Java_8d52a638"
+        },
+        {
+            "type": "java",
+            "name": "valoresNumerios",
+            "request": "launch",
+            "mainClass": "edu.java.tipoVariaveis.valoresNumerios",
+            "projectName": "Java_8d52a638"
+        }
+    ]
+}
